@@ -71,7 +71,7 @@ Ready-to-use integration examples for developers.
 <p align="center">
   <a href="https://antipay.site/docs">
     <img src="https://img.shields.io/badge/Developer%20Docs-Official-10853D?style=for-the-badge&logo=readthedocs&logoColor=white">
-  </a>  <a href="https://antipay.site/docs">
+  </a>  <a href="https://pay.antipay.site/v1">
     <img src="https://img.shields.io/badge/API%20Reference-v1-0A7A35?style=for-the-badge&logo=swagger&logoColor=white">
   </a>
 </p>---
