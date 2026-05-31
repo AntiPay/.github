@@ -6,9 +6,11 @@
   <b>Modern payment verification infrastructure for merchants and developers.</b><br/>
   Automating transaction verification, merchant payments, and financial workflows.
 </p><p align="center">
+  <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61563135158382">
-  <img src="https://img.shields.io/badge/Follow%20AntiPay-Facebook-1877F2?style=for-the badge&logo=facebook&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/Follow%20AntiPay-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</p>
   <a href="https://antipay.site">
     <img src="https://img.shields.io/badge/Website-AntiPay-10853D?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
