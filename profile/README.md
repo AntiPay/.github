@@ -6,7 +6,7 @@
   <b>Modern payment verification infrastructure for merchants and developers.</b><br/>
   Automating transaction verification, merchant payments, and financial workflows.
 </p><p align="center">
-  <a href="https://github.com/AntiPay/antipay-android/releases/lastest">
+  <a href="https://github.com/antipay/antipay-android/releases/latest">
     <img src="https://img.shields.io/github/v/release/YOUR_ORG/YOUR_REPO?include_prereleases&style=for-the-badge">
   </a>
   <a href="https://antipay.site/docs">
